@@ -1,0 +1,68 @@
+.images1-box {
+
+  display: block;
+  margin-left: 0; 
+}
+
+.images1-box {
+
+  display: block;
+  margin-left: 0; 
+}
+
+.cream{
+  background-color: #ffead9;
+}
+
+header.brown .navbar-nav .nav-link {
+    color: white;
+}
+
+.blue{
+  background-color: #d1eaf5;
+}
+
+.pink{
+  background-color: #ffb3c6;
+}
+
+
+.prompt-regular {
+  font-family: "Prompt", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.text-justify {
+    text-align: justify;
+}
+
+.blue {
+    background-color: #e0f0ff; 
+}
+
+h3 {
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    p.fs-5 {
+        font-size: 1rem;
+    }
+}
+
+
+section {
+    padding: 60px 0;
+    margin: 0;
+}
+
+.cream-h2 {
+    font-size: 2rem;
+    line-height: 1.5;
+    color: #4a4a4a;
+    font-weight: 500;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
